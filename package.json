@@ -1,0 +1,14 @@
+{
+  "name": "darklifededicatedserver",
+  "version": "0.1.0",
+  "description": "A official Dedicated Server implementation for the game called DarkLife.",
+  "main": "index.js",
+  "scripts": {},
+  "author": "Daniel Nesov",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.3.2",
+    "express": "^4.15.2",
+    "socket.io": "^2.1.1"
+  }
+}
