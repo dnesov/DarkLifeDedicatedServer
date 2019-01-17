@@ -2,7 +2,7 @@
 title DARKLIFE Dedicated Server
 if exist "./node_modules/express" goto startapp
 :dependenciesalert
-@echo DarkLife's dedicated server needs to have needed permissions, to use it.
+@echo DarkLife's dedicated server needs to have important dependencies to be installed.
 @echo do you want to install them? (Y/N)
 set /p answer=
 if %answer% == Y (
